@@ -17,3 +17,4 @@ if (answer.userGuessedNumber === randomNumber) {
 else {
     console.log("Oops! you guessed a wrong number please try again.");
 }
+;

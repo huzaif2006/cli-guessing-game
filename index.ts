@@ -19,4 +19,4 @@ if (answer.userGuessedNumber === randomNumber) {
   console.log("Congratulation! you guessed right number.");
 } else {
   console.log("Oops! you guessed a wrong number please try again.");
-}
+};
